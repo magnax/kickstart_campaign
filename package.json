@@ -1,0 +1,19 @@
+{
+  "name": "kickstarter",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/magnax/kickstart_campaign.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magnax/kickstart_campaign/issues"
+  },
+  "homepage": "https://github.com/magnax/kickstart_campaign#readme"
+}
