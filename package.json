@@ -4,7 +4,7 @@
   "description": "Test",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/magnax/kickstart_campaign/issues"
   },
-  "homepage": "https://github.com/magnax/kickstart_campaign#readme"
+  "homepage": "https://github.com/magnax/kickstart_campaign#readme",
+  "dependencies": {
+    "fs-extra": "^7.0.1",
+    "ganache-cli": "^6.1.8",
+    "mocha": "^5.2.0",
+    "solc": "^0.4.25",
+    "web3": "^1.0.0-beta.36"
+  }
 }
