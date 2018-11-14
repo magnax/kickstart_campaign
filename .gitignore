@@ -2,3 +2,4 @@ node_modules/
 ethereum/build/
 config/address.txt
 config/application.json
+.next
